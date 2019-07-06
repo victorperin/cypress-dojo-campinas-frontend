@@ -2,8 +2,8 @@
 
 ## Testes
 
-- [ ] Login
-- [ ] Adicionar e remover do carrinho
-- [ ] criar lista
-- [ ] Adicionar na lista de desejos
-- [ ] Remover da  de desejos
+- [x] Login
+- [x] Adicionar e remover do carrinho
+- [x] criar lista
+- [x] Adicionar na lista de desejos
+- [x] Remover da  de desejos
