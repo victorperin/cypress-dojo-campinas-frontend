@@ -1,5 +1,7 @@
 # Amazon
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/victorperin/cypress-dojo-campinas-frontend.svg)](https://greenkeeper.io/)
+
 ## Testes
 
 - [x] Login
